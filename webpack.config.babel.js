@@ -16,7 +16,7 @@ export default {
           {
             loader: 'babel-loader',
             options: {
-              presets: ['@babel/preset-env', '@babel/react']aaa
+              presets: ['@babel/preset-env', '@babel/react']aa
             },
           },
           // {
